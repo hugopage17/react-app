@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React and S3 app and Lambda
+          React and S3 app and Lambda too
         </p>
         <a
           className="App-link"
